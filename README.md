@@ -3,12 +3,12 @@
 	<img src="icon.svg" width="500" alt="MPS Logo">
 </p>
 
-[MPS](https://mps.io) is a secure and performant multicast communications system for digital systems, 
+[MPS](https://nomadsdevel.github.io/mps/) is a secure and performant multicast communications system for digital systems, 
 services and devices.
 
 ## Documentation
 
-- [Official Website](https://mps.io)
+- [Official Website](https://nomadsdevel.github.io/mps/)
 
 ## Contact
 
@@ -21,7 +21,7 @@ services and devices.
 [License-Image]: https://img.shields.io/badge/License-Apache2-blue.svg
 
 ## Roadmap
-MPS product roadmap can be found [here](https://mps.io/about/#roadmap).
+MPS product roadmap can be found [here](https://nomadsdevel.github.io/mps/about/#roadmap).
 
 ## Security
 
